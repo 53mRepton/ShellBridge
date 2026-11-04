@@ -41,3 +41,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 This project has so far gone to:
 - v1.0.0
 - v1.0.1
+- v1.0.2
